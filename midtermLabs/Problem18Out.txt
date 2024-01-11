@@ -1,0 +1,7 @@
+dog
+cat
+mouse
+hamster
+reptile
+bird
+horse

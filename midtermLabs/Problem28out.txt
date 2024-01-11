@@ -1,0 +1,91 @@
+c:\Users\sbern\.anaconda
+c:\Users\sbern\.android
+c:\Users\sbern\.atom
+c:\Users\sbern\.azuredatastudio
+c:\Users\sbern\.cache
+c:\Users\sbern\.conda
+c:\Users\sbern\.config
+c:\Users\sbern\.dotnet
+c:\Users\sbern\.eclipse
+c:\Users\sbern\.idlerc
+c:\Users\sbern\.ipynb_checkpoints
+c:\Users\sbern\.ipython
+c:\Users\sbern\.jupyter
+c:\Users\sbern\.matplotlib
+c:\Users\sbern\.ms-ad
+c:\Users\sbern\.nuget
+c:\Users\sbern\.p2
+c:\Users\sbern\.pylint.d
+c:\Users\sbern\.spyder-py3
+c:\Users\sbern\.templateengine
+c:\Users\sbern\.VirtualBox
+c:\Users\sbern\.vscode
+c:\Users\sbern\3D Objects
+c:\Users\sbern\anaconda3
+c:\Users\sbern\AppData
+c:\Users\sbern\Application Data
+c:\Users\sbern\Aptana Rubles
+c:\Users\sbern\Cisco Packet Tracer 8.0.1
+c:\Users\sbern\Contacts
+c:\Users\sbern\Cookies
+c:\Users\sbern\Creative Cloud Files
+c:\Users\sbern\DB PROJ3 3_21 BERNATH
+c:\Users\sbern\Desktop
+c:\Users\sbern\Documents
+c:\Users\sbern\Downloads
+c:\Users\sbern\Downloads - Copy
+c:\Users\sbern\eclipse
+c:\Users\sbern\eclipse-workspace
+c:\Users\sbern\Favorites
+c:\Users\sbern\git_practice
+c:\Users\sbern\IntelGraphicsProfiles
+c:\Users\sbern\JavaScript
+c:\Users\sbern\Links
+c:\Users\sbern\Local Settings
+c:\Users\sbern\Local Sites
+c:\Users\sbern\logs
+c:\Users\sbern\MicrosoftEdgeBackups
+c:\Users\sbern\Music
+c:\Users\sbern\mu_code
+c:\Users\sbern\My Documents
+c:\Users\sbern\NetHood
+c:\Users\sbern\OneDrive
+c:\Users\sbern\OneDrive - Bernath Studios
+c:\Users\sbern\PrintHood
+c:\Users\sbern\Recent
+c:\Users\sbern\Saved Games
+c:\Users\sbern\Searches
+c:\Users\sbern\SendTo
+c:\Users\sbern\source
+c:\Users\sbern\Start Menu
+c:\Users\sbern\T-Engine
+c:\Users\sbern\Templates
+c:\Users\sbern\Tracing
+c:\Users\sbern\Videos
+c:\Users\sbern\VirtualBox VMs
+c:\Users\sbern\__MACOSX
+c:\Users\sbern\.bashrc
+c:\Users\sbern\.bash_history
+c:\Users\sbern\.bash_profile
+c:\Users\sbern\.condarc
+c:\Users\sbern\.gitconfig
+c:\Users\sbern\.node_repl_history
+c:\Users\sbern\.packettracer
+c:\Users\sbern\.python_history
+c:\Users\sbern\.viminfo
+c:\Users\sbern\Assign1_Oracle_Bernath.sql
+c:\Users\sbern\DB PROJ3 3_21 BERNATH.dmd
+c:\Users\sbern\HR.sql
+c:\Users\sbern\HRASSIGN1.sql
+c:\Users\sbern\ipconfigtest.txt
+c:\Users\sbern\NTUSER.DAT
+c:\Users\sbern\ntuser.dat.LOG1
+c:\Users\sbern\ntuser.dat.LOG2
+c:\Users\sbern\NTUSER.DAT{bf593acf-9bdf-11eb-88c8-00155dc8bffe}.TM.blf
+c:\Users\sbern\NTUSER.DAT{bf593acf-9bdf-11eb-88c8-00155dc8bffe}.TMContainer00000000000000000001.regtrans-ms
+c:\Users\sbern\NTUSER.DAT{bf593acf-9bdf-11eb-88c8-00155dc8bffe}.TMContainer00000000000000000002.regtrans-ms
+c:\Users\sbern\ntuser.ini
+c:\Users\sbern\sql_ddl.ddl
+c:\Users\sbern\stats hw 5.txt
+c:\Users\sbern\stats practice 5.5
+c:\Users\sbern\Untitled.ipynb

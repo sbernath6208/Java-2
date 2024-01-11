@@ -1,0 +1,25 @@
+c:\Users\sbern\.bashrc
+c:\Users\sbern\.bash_history
+c:\Users\sbern\.bash_profile
+c:\Users\sbern\.condarc
+c:\Users\sbern\.gitconfig
+c:\Users\sbern\.node_repl_history
+c:\Users\sbern\.packettracer
+c:\Users\sbern\.python_history
+c:\Users\sbern\.viminfo
+c:\Users\sbern\Assign1_Oracle_Bernath.sql
+c:\Users\sbern\DB PROJ3 3_21 BERNATH.dmd
+c:\Users\sbern\HR.sql
+c:\Users\sbern\HRASSIGN1.sql
+c:\Users\sbern\ipconfigtest.txt
+c:\Users\sbern\NTUSER.DAT
+c:\Users\sbern\ntuser.dat.LOG1
+c:\Users\sbern\ntuser.dat.LOG2
+c:\Users\sbern\NTUSER.DAT{bf593acf-9bdf-11eb-88c8-00155dc8bffe}.TM.blf
+c:\Users\sbern\NTUSER.DAT{bf593acf-9bdf-11eb-88c8-00155dc8bffe}.TMContainer00000000000000000001.regtrans-ms
+c:\Users\sbern\NTUSER.DAT{bf593acf-9bdf-11eb-88c8-00155dc8bffe}.TMContainer00000000000000000002.regtrans-ms
+c:\Users\sbern\ntuser.ini
+c:\Users\sbern\sql_ddl.ddl
+c:\Users\sbern\stats hw 5.txt
+c:\Users\sbern\stats practice 5.5
+c:\Users\sbern\Untitled.ipynb
