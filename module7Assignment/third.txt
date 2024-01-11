@@ -1,0 +1,40 @@
+gold vein
+1.0
+15000.0
+99
+3
+material
+gold
+:::
+silver cap
+0.02
+10000.0
+99
+4
+material
+silver
+:::
+space drill
+0.8
+99.0
+99
+6
+equipment
+tool
+:::
+suit armor
+0.05
+3000.0
+99
+5
+equipment
+human wearable
+:::
+zebra
+0.2
+200.0
+88
+1
+consumable
+food
+:::

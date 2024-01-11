@@ -1,0 +1,16 @@
+gold vein
+1.0
+15000.0
+99
+3
+material
+gold
+:::
+zebra
+0.2
+200.0
+88
+1
+consumable
+food
+:::
